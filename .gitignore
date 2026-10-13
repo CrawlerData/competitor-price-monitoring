@@ -1,0 +1,24 @@
+# Secrets
+.env
+*.key
+.api-key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Output of local runs
+output/
+*.db
+*.sqlite
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
